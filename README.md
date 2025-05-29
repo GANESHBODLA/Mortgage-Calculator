@@ -67,7 +67,7 @@ This is a web-based application for managing customer data, designed for financi
    The server will run at `http://localhost:3000`.
 
 4. **Access the Frontend**:
-   - Open `fasak.html` in a web browser. If hosting locally, use a tool like `http-server` or place the file in a web server directory.
+   - Open `index.html` in a web browser. If hosting locally, use a tool like `http-server` or place the file in a web server directory.
    - Alternatively, serve the HTML file through the Express server by adding a static file route (not included in the provided `server.js`).
 
 ## Usage
